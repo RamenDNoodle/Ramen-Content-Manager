@@ -8,6 +8,7 @@
             <div class="col-12 pl-3">
                 <div class="row h-100" style="background-color: rgba(23,162,184,0.6)">
 
+
                     <div class="col-12 py-1" style="border-bottom: 2px black dashed;border-top: solid 2px black;background-color: rgba(23,162,184,0.7);">
                         <div class="row justify-content-between align-items-center">
                             <div class="col-4">
