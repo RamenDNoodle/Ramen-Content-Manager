@@ -1,5 +1,5 @@
 
-<div class="row w-100">
+<div class="row w-100 fixed-bottom">
     <div class="col-4">
         Déveloper par <a href="https://gauthierchambin.fr" target="_blank">Gauthier Chambin</a> et <a href="https://github.com/PaulineTeoulle" target="_blank">Pauline Teoulle</a>.
     </div>
